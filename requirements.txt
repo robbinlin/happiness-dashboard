@@ -1,6 +1,7 @@
-streamlit==0.80.0
-pandas==1.0.5
-numpy==1.18.5
-plotly==4.14.3
-plotly-express==0.4.0
-xlrd==1.2.0
+streamlit
+pandas
+plotly
+plotly-express
+seaborn
+matplotlib
+statsmodels.formula.api
