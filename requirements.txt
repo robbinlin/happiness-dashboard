@@ -4,4 +4,4 @@ plotly
 plotly-express
 seaborn
 matplotlib
-statsmodels.formula.api
+
